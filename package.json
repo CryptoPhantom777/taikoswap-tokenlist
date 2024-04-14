@@ -1,8 +1,7 @@
 {
-  "name": "diffusion-tokenlist",
+  "name": "xlayerswap-tokenlist",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "KeKs0r <marc.hoeffl@laserfocus.io>",
   "license": "MIT",
   "devDependencies": {
     "@uniswap/token-lists": "^1.0.0-beta.28",
