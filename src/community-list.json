@@ -1,10 +1,19 @@
 {
     "name": "Community List",
-    "timestamp": "2024-04-14T00:00:00.000Z",
+    "timestamp": "2024-04-15T00:00:00.000Z",
     "version": {
-        "major": 0,
-        "minor": 1,
+        "major": 1,
+        "minor": 0,
         "patch": 0
     },
-    "tokens": []
+    "tokens": [
+        {
+            "name": "X Layer Cat",
+            "symbol": "XCAT",
+            "chainId": 196,
+            "decimals": 18,
+            "address": "0x019f7FdC7342b5Bf5D180272eF0fE9c16AE4Ee83",
+            "logoURI": "https://raw.githubusercontent.com/xlayerswap/tokenlist/main/src/logos/xcat.png"
+        }
+    ]
 }
