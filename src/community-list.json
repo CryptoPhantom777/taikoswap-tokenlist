@@ -6,14 +6,5 @@
         "minor": 0,
         "patch": 0
     },
-    "tokens": [
-        {
-            "name": "X Layer Cat",
-            "symbol": "XCAT",
-            "chainId": 196,
-            "decimals": 18,
-            "address": "0x019f7FdC7342b5Bf5D180272eF0fE9c16AE4Ee83",
-            "logoURI": "https://raw.githubusercontent.com/xlayerswap/tokenlist/main/src/logos/xcat.png"
-        }
-    ]
+    "tokens": []
 }
