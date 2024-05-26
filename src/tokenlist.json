@@ -1,36 +1,20 @@
 {
     "name": "XLayerSwap List",
-    "timestamp": "2024-04-15T00:00:00.000Z",
-    "logoURI": "https://xlayerswap.com/favicon.png",
+    "timestamp": "2024-05-25T00:00:00.000Z",
+    "logoURI": "https://taikoswap.net/favicon.png",
     "version": {
         "major": 1,
-        "minor": 1,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
         {
-            "name": "Wrapped OKB",
-            "symbol": "WOKB",
-            "chainId": 196,
+            "name": "Wrapped ETH",
+            "symbol": "WETH",
+            "chainId": 167000,
             "decimals": 18,
             "address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png"
-        },
-        {
-            "name": "Wrapped OKB",
-            "symbol": "WOKB",
-            "chainId": 195,
-            "decimals": 18,
-            "address": "0xa2affd8301bfb3c5b815829f2f509f053556d21b",
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png"
-        },
-        {
-            "name": "X Layer Cat",
-            "symbol": "XCAT",
-            "chainId": 196,
-            "decimals": 18,
-            "address": "0x019f7FdC7342b5Bf5D180272eF0fE9c16AE4Ee83",
-            "logoURI": "https://raw.githubusercontent.com/xlayerswap/tokenlist/main/src/logos/xcat.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
         }
     ]
 }
