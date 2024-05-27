@@ -1,10 +1,10 @@
 {
     "name": "TaikoSwap List",
-    "timestamp": "2024-05-26T10:00:00.000Z",
+    "timestamp": "2024-05-26T11:00:00.000Z",
     "logoURI": "https://tkoswap.xyz/favicon.png",
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tokens": [
@@ -15,6 +15,14 @@
             "decimals": 18,
             "address": "0xA51894664A773981C6C112C43ce576f315d5b1B6",
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+        },
+        {
+            "name": "TAIKO DOG",
+            "symbol": "DOG",
+            "chainId": 167000,
+            "decimals": 9,
+            "address": "0x487cb4FD05E0a30eB199a4E22aceC21f4b50F006",
+            "logoURI": "https://raw.githubusercontent.com/CryptoPhantom777/taikoswap-tokenlist/main/src/logos/taikodog.png"
         }
     ]
 }
