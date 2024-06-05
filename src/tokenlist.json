@@ -1,10 +1,10 @@
 {
     "name": "TaikoSwap List",
-    "timestamp": "2024-05-30T15:00:00.000Z",
+    "timestamp": "2024-06-04T15:00:00.000Z",
     "logoURI": "https://tkoswap.xyz/favicon.png",
     "version": {
         "major": 1,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
     "tokens": [
@@ -31,6 +31,14 @@
             "decimals": 6,
             "address": "0x07d83526730c7438048D55A4fc0b850e2aaB6f0b",
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+        },
+        {
+            "name": "Taiko Token",
+            "symbol": "TAIKO",
+            "chainId": 167000,
+            "decimals": 18,
+            "address": "0xA9d23408b9bA935c230493c40C73824Df71A0975",
+            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/taiko.png"
         }
     ]
 }
